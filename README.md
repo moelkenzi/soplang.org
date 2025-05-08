@@ -1,8 +1,9 @@
-# Soplang: The Somali Programming Language 🚀
-
 <div align="center">
 
-![Soplang Logo](public/images/logo/logo.svg)
+# Soplang: The Somali Programming Language 🚀
+
+
+<p align="center"><img src="public/images/logo/logo_macOS_app.png" width="200" alt="Soplang Logo"></p>
 
 **Code in your native language. Build for the future.**
 
